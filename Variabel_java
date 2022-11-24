@@ -1,0 +1,17 @@
+public class MyClass {
+    public static void main(String args[]) {
+        String salam = "Assalamualaikum warohmatullahi wabarokatuh";
+        String nama = "Rangga Ash Raffy jannuarta";
+        String cita_cita = "Jadi orang sukses";
+        String hobi = "Sepakbola";
+        int lahir = 2003;
+        int umur = 19;
+        
+        System.out.println(salam);
+        System.out.println("Nama Saya "+nama);
+        System.out.println("Cita cita saya "+cita_cita);
+        System.out.println(" saya memiliki hobi "+hobi);
+        System.out.println("Saya Lahir diTahun : "+lahir);
+        System.out.println("umur saya : "+umur);
+    }
+}
